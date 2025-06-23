@@ -3,37 +3,58 @@
   "WorkspaceRootPath": "D:\\Jennifer Andrada\\Projects\\POS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frminventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\module\\population.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frminventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frmsales.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frmmainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frmmainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frmsales.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frminventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frmhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frmhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\module\\population.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\module\\publicfunction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frmmainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frminventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\module\\fileimports.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\class\\items.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\forms\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\module\\saveupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\class\\stocks.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\module\\database.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\login_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\module\\saveupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{8AF6A99D-8F39-4CB6-AE06-57F3DE51800E}|..\\..\\My Apps\\POS\\POS\\POS.vbproj|d:\\jennifer andrada\\my apps\\pos\\pos\\module\\database.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,8 +64,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmInventory.vb",
+              "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmInventory.vb",
+              "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Forms\\frmInventory.vb",
+              "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmInventory.vb",
+              "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Forms\\frmInventory.vb",
+              "ViewState": "AQIAADwCAAAAAAAAAAAUwEkCAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-17T08:54:54.289Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmSales.vb",
+              "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmSales.vb",
+              "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Forms\\frmSales.vb",
+              "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmSales.vb",
+              "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Forms\\frmSales.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T08:43:27.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSales.vb [Design]",
+              "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmSales.vb",
+              "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Forms\\frmSales.vb",
+              "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmSales.vb [Design]",
+              "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Forms\\frmSales.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T08:06:23.15Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -55,7 +115,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "frmHistory.vb",
+              "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmHistory.vb",
+              "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Forms\\frmHistory.vb",
+              "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmHistory.vb",
+              "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Forms\\frmHistory.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAArwAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T07:48:52.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmHistory.vb [Design]",
+              "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmHistory.vb",
+              "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Forms\\frmHistory.vb",
+              "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmHistory.vb [Design]",
+              "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Forms\\frmHistory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T07:39:25.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmInventory.vb [Design]",
+              "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmInventory.vb",
+              "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Forms\\frmInventory.vb",
+              "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmInventory.vb [Design]",
+              "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Forms\\frmInventory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-17T08:54:41.96Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileImports.vb",
+              "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Module\\FileImports.vb",
+              "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Module\\FileImports.vb",
+              "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Module\\FileImports.vb",
+              "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Module\\FileImports.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-21T09:22:14.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login_Form.vb",
+              "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Login_Form.vb",
+              "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Login_Form.vb",
+              "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Login_Form.vb",
+              "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Login_Form.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-21T02:42:33.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Items.vb",
+              "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Class\\Items.vb",
+              "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Class\\Items.vb",
+              "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Class\\Items.vb",
+              "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Class\\Items.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-21T00:58:47.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Database.vb",
               "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Module\\Database.vb",
               "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Module\\Database.vb",
@@ -68,85 +204,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PublicFunction.vb",
               "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Module\\PublicFunction.vb",
               "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Module\\PublicFunction.vb",
               "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Module\\PublicFunction.vb",
               "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Module\\PublicFunction.vb",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAswEcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-06-20T03:05:29.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "frmMainForm.vb",
               "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmMainForm.vb",
               "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Forms\\frmMainForm.vb",
               "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmMainForm.vb",
               "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Forms\\frmMainForm.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAIsAAAAAAAAAAADgv5UAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-06-20T03:04:58.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Stocks.vb",
               "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Class\\Stocks.vb",
               "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Class\\Stocks.vb",
               "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Class\\Stocks.vb",
               "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Class\\Stocks.vb",
-              "ViewState": "AQIAAJEAAAAAAAAAAAAswKsAAAA5AAAA",
+              "ViewState": "AQIAAMAAAAAAAAAAAADwv6IAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-06-18T08:48:41.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "SaveUpdate.vb",
               "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Module\\SaveUpdate.vb",
               "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Module\\SaveUpdate.vb",
               "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Module\\SaveUpdate.vb",
               "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Module\\SaveUpdate.vb",
-              "ViewState": "AQIAACgAAAAAAAAAAADgvzgAAAAcAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAIA6wDkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-06-18T03:08:41.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Population.vb",
               "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Module\\Population.vb",
               "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Module\\Population.vb",
               "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Module\\Population.vb",
               "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Module\\Population.vb",
-              "ViewState": "AQIAABUAAAAAAAAAAAAxwCoAAAB4AAAA",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAhwJMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-06-18T02:03:05.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "frmSettings.vb",
               "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmSettings.vb",
               "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Forms\\frmSettings.vb",
               "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmSettings.vb",
               "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Forms\\frmSettings.vb",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAWwBoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-06-18T02:12:01.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "frmSettings.vb [Design]",
               "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmSettings.vb",
               "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Forms\\frmSettings.vb",
@@ -158,32 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmInventory.vb",
-              "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmInventory.vb",
-              "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Forms\\frmInventory.vb",
-              "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmInventory.vb",
-              "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Forms\\frmInventory.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-06-17T08:54:54.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmInventory.vb [Design]",
-              "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmInventory.vb",
-              "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Forms\\frmInventory.vb",
-              "ToolTip": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmInventory.vb [Design]",
-              "RelativeToolTip": "..\\..\\My Apps\\POS\\POS\\Forms\\frmInventory.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-06-17T08:54:41.96Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "frmMainForm.vb [Design]",
               "DocumentMoniker": "D:\\Jennifer Andrada\\My Apps\\POS\\POS\\Forms\\frmMainForm.vb",
               "RelativeDocumentMoniker": "..\\..\\My Apps\\POS\\POS\\Forms\\frmMainForm.vb",
